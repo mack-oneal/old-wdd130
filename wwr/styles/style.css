@@ -1,0 +1,43 @@
+
+
+body {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 4em;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+#background {
+      height: 725px;
+  }
+
+body {
+    background-color: #00A99D; 
+}
+header {
+    background-color:#E1E1E1;
+}
+nav a:hover {
+    background-color: #F15A24;
+    color: #E1E1E1;
+}
+
+.icon {
+    width: 80px;
+}
+
+.logo {
+    width: 600px;
+}
+
+#hero-img {
+    width: 100%
+}
+
+nav a {
+    text-align: center;
+    color: #00A99D;
+    text-decoration: none;
+}
+
